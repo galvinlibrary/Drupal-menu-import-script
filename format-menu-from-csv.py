@@ -23,6 +23,11 @@ else:
                 continue
               else: 
                 val2=cols[1]
+                val3=cols[2]
+                if val3=='':
+                  print "heading ", val1, " has no column 3"
+                else:
+                  print "heading ", val1, " has '", val3, "' for column 3"                    
                 row = val1 + " " + "{\"url\":\"" + val2 + "\"}\n"
                 output.write(row)
     output.close()
