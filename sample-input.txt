@@ -1,0 +1,16 @@
+#Heading,URL
+About,about
+-Column 1,http://<menu-column>
+--Administration,http://<menu-category>
+---Quick Facts,about/admin/facts
+---Dean's Page,about/admin/dean
+---Mission Statement,about/admin/mission
+---Library Staff,about/admin/staff
+---Give to the Library,about/admin/give
+-Column 2,http://<menu-column>
+--Policies & Procedures,http://<menu-category>
+---Access and Usage,about/policies/access
+---24 hour access,about/policies/24hour
+---Collection Development,about/policies/collection-development
+---Donating Books,about/policies/donating-books
+---Fines,about/policies/fines

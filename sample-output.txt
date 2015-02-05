@@ -1,0 +1,15 @@
+About {"url":"about"}
+-Column 1 {"url":"http:\/\/<menu-column>", "options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Administration {"url":"http:\/\/<menu-category>"}
+---Quick Facts {"url":"about\/admin\/facts"}
+---Dean's Page {"url":"about\/admin\/dean"}
+---Mission Statement {"url":"about\/admin\/mission"}
+---Library Staff {"url":"about\/admin\/staff"}
+---Give to the Library {"url":"about\/admin\/give"}
+-Column 2 {"url":"http:\/\/<menu-column>", "options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Policies & Procedures {"url":"http:\/\/<menu-category>"}
+---Access and Usage {"url":"about\/policies\/access"}
+---24 hour access {"url":"about\/policies\/24hour"}
+---Collection Development {"url":"about\/policies\/collection-development"}
+---Donating Books {"url":"about\/policies\/donating-books"}
+---Fines {"url":"about\/policies\/fines"}
