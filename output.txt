@@ -1,15 +1,74 @@
-About {"url":"about"}
--Column 1 {"url":"http:\/\/<menu-column>", "options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+Home {"url":"<front>"}
+Articles & More {"url":"articles"}
+-Column 1 {"url":"http:\/\/<menu-column>"}
+--Articles {"url":"http:\/\/<menu-category>"}
+---Quick Search (3 databases) {"url":"articles\/quick-search"}
+---Find Articles by Subject {"url":"databases\/find-by-subject"}
+---Find Items by Type of Content {"url":"articles\/find-by-content"}
+---Find a Specific Article {"url":"articles\/find-an-article"}
+---Request an Article {"url":"articles\/request-an-article"}
+-Column 2 {"url":"http:\/\/<menu-column>"}
+--Journals {"url":"http:\/\/<menu-category>"}
+---Find a Journal by Name {"url":"journals\/find-by-name"}
+---Find a Journal by ISSN {"url":"journals\/find-by-issn"}
+---Find Journals by Subject {"url":"journals\/find-by-subject"}
+-Column 3 {"url":"http:\/\/<menu-column>"}
+--Databases {"url":"http:\/\/<menu-category>"}
+---Find Databases by Subject {"url":"databases\/find-by-subject"}
+---Find Databases by Type of Content {"url":"databases\/find-by-content"}
+---View All Databases {"url":"databases\/view-all"}
+Books {"url":"books"}
+-Column 1 {"url":"http:\/\/<menu-column>"}
+--Books at IIT {"url":"http:\/\/<menu-category>"}
+---Find Your Textbooks {"url":"books\/textbooks"}
+---Search IIT Books {"url":"books\/iit"}
+---E-Books {"url":"books\/ebooks"}
+---Your Library Accounts {"url":"services\/library-accounts"}
+-Column 2 {"url":"http:\/\/<menu-column>"}
+--More Books {"url":"http:\/\/<menu-category>"}
+---Search I-Share Books {"url":"books\/ishare"}
+---Search WorldCat Books {"url":"books\/worldcat"}
+For Students {"url":"services\/students"}
+-Column 1 {"url":"http:\/\/<menu-column>"}
+---Find Your Textbooks {"url":"books\/textbooks"}
+---Reserve a Study Room {"url":"services\/reserve-a-room"}
+---Tutorials and Research Guides {"url":"services\/tutorials"}
+---International Students {"url":"services\/students\/international"}
+---Distance Students {"url":"services\/students\/distance"}
+---Work at the Library {"url":"services\/students\/jobs"}
+---Fun at the Library {"url":"services\/students\/fun"}
+For Faculty {"url":"serices\/faculty"}
+About the Library {"url":"about"}
+-Column 1 {"url":"http:\/\/<menu-column>"}
 --Administration {"url":"http:\/\/<menu-category>"}
----Quick Facts {"url":"about\/admin\/facts"}
----Dean's Page {"url":"about\/admin\/dean"}
----Mission Statement {"url":"about\/admin\/mission"}
----Library Staff {"url":"about\/admin\/staff"}
----Give to the Library {"url":"about\/admin\/give"}
--Column 2 {"url":"http:\/\/<menu-column>", "options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+---Quick Facts {"url":"about\/facts"}
+---Dean's Page {"url":"about\/dean"}
+---Mission Statement {"url":"about\/mission"}
+---Library Staff {"url":"about\/staff"}
+---Give to the Library {"url":"about\/give"}
+-Column 2 {"url":"http:\/\/<menu-column>"}
 --Policies & Procedures {"url":"http:\/\/<menu-category>"}
----Access and Usage {"url":"about\/policies\/access"}
----24 hour access {"url":"about\/policies\/24hour"}
----Collection Development {"url":"about\/policies\/collection-development"}
----Donating Books {"url":"about\/policies\/donating-books"}
----Fines {"url":"about\/policies\/fines"}
+---Access and Usage {"url":"about\/access"}
+---24 hour access {"url":"about\/24-hour"}
+---Collection Development {"url":"about\/collection-development"}
+---Donating Books {"url":"about\/donating-books"}
+---Fines {"url":"about\/fines"}
+-Column 3 {"url":"http:\/\/<menu-column>"}
+--About the Building {"url":"http:\/\/<menu-category>"}
+---Computers {"url":"about\/computers"}
+---Printing {"url":"about\/printers"}
+---Borrowing a Laptop or iPad {"url":"about\/laptops-and-ipads"}
+---Wireless Access {"url":"about\/wireless"}
+---Scanning {"url":"about\/scanning"}
+---Maps and Directions {"url":"about\/maps"}
+---Art in the Library {"url":"about\/art"}
+-Column 4 {"url":"http:\/\/<menu-column>"}
+--Other Programs {"url":"http:\/\/<menu-category>"}
+---Other IIT Libraries {"url":"about\/branches"}
+---IIT Archives {"url":"about\/archives"}
+---Digital Collections {"url":"about\/digital-collections"}
+---University Technology Park {"url":"about\/utp"}
+---Federal Depository Library Program {"url":"about\/fdlp"}
+---Food & Agricultural Organization Depository {"url":"about\/faod"}
+---IITRI {"url":"about\/iitri"}
+IIT Home {"url":"http:\/\/web.iit.edu\/"}
