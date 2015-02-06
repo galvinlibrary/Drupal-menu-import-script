@@ -5,8 +5,7 @@ print '''
      Column 1: menu name (with dashes for sub menus)
      Column 2: path
 '''
-checkColumn = "menu-column" #this will appear in the URL column for a column header
-className = "iit-gh-menu-grid-4" # this is the class name IITWeb uses to space out columns
+
 inFile = raw_input("\nEnter input filename to continue or <enter> to quit:\n")
 if len(inFile) < 1:
     print '\nProgram stopped'
@@ -19,17 +18,16 @@ else:
       with open(inFile) as input:
           line = csv.reader(input, delimiter=",")
           for cols in line:
-            val0=cols[0]
-            if val0[:1]=='#':
+            if cols[0][:1]=='#':
                 print "\nHeader line found. Skipping this line: \n", cols
                 continue
-
-            val1=cols[1]  
-            if checkColumn in val1:  
-                print "Adding class for row ", val0
-                row = val0 + " " + "{\"url\":\"" + val1 + "\", \"options\":{\"attributes\":{\"class\":[\"" + className + "\"]}}}\n"
+ 
+            if 'column' in cols[0]:  
+              print "Adding class for row ", val0
+              row = cols[0] + " " + "{\"url\":\"" + cols[1] + "\", \"options\":{\"attributes\":{\"class\":[\"" + 'iit-gh-menu-grid-4' + "\"]}}}\n"
             else:
-                row = val0 + " " + "{\"url\":\"" + val1 + "\"}\n"
+              row = cols[0] + " " + "{\"url\":\"" + cols[1] + "\"}\n"
+
             row = re.sub('/', '\/', row)
             output.write(row)
             
