@@ -39,7 +39,7 @@ else:
 
             print "print row ** %s ** \t propFlag=%d" % (cols[0], propFlag)                
             strPropFlag = str(propFlag)    
-            row = cols[0] + " " + "{\"url\":\"" + cols[1] + "\"}\n"
+            row = "%s {\"url\":\"%s\"}\n" % (cols[0], cols[1])
             row = re.sub('/', '\/', row)
             output.write(row)
             
