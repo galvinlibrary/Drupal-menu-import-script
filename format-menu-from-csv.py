@@ -37,11 +37,24 @@ else:
             if cols[4]!= "":
                 propFlag=1                
 
-            print "print row ** %s ** \t propFlag=%d" % (cols[0], propFlag)                
-            strPropFlag = str(propFlag)    
-            row = "%s {\"url\":\"%s\"}\n" % (cols[0], cols[1])
+            row = "%s {\"url\":\"%s\"" % (cols[0], cols[1])
+            if propFlag==1:
+                row = row + ",\"options\":{\"attributes\":{"
+                if cols[2]!="":
+                    row = row + "\"title\":\"" + cols[2] + "\","
+                if cols[3]!="":
+                    row = row + "\"id\":\"" + cols[3] + "\","
+                if cols[4]!="":
+                    row = row + "\"class\":[\"" + cols[4] + "\"],"
+                row = row[:-1]
+                row = row + "}}}\n"
+            else:
+                row = row + "}\n"
+
             row = re.sub('/', '\/', row)
             output.write(row)
+            
+
             
     output.close()
     print "\nFinished processing data from", inFile, "to", outFile

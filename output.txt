@@ -1,35 +1,36 @@
-Home {"url":"<front>"}
-Articles & More {"url":"articles"}
--Column 1 {"url":"http:\/\/<menu-column>"}
+Home {"url":"http:\/\/216.47.136.102","options":{"attributes":{"title":"The Paul V. Galvin Library home page","id":"galvinHome"}}}
+Articles & More {"url":"articles","options":{"attributes":{"title":"Articles and e-resources at Galvin Library","id":"galvinArticles"}}}
+-Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Articles {"url":"http:\/\/<menu-category>"}
----Quick Search (3 databases) {"url":"articles\/quick-search"}
+---Quick Search (3 databases) {"url":"articles\/quick-search","options":{"attributes":{"title":"Quick search box to 3 databases"}}}
 ---Find Articles by Subject {"url":"databases\/find-by-subject"}
 ---Find Items by Type of Content {"url":"articles\/find-by-content"}
 ---Find a Specific Article {"url":"articles\/find-an-article"}
 ---Request an Article {"url":"articles\/request-an-article"}
--Column 2 {"url":"http:\/\/<menu-column>"}
+-Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Journals {"url":"http:\/\/<menu-category>"}
 ---Find a Journal by Name {"url":"journals\/find-by-name"}
 ---Find a Journal by ISSN {"url":"journals\/find-by-issn"}
 ---Find Journals by Subject {"url":"journals\/find-by-subject"}
--Column 3 {"url":"http:\/\/<menu-column>"}
+-Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Databases {"url":"http:\/\/<menu-category>"}
 ---Find Databases by Subject {"url":"databases\/find-by-subject"}
 ---Find Databases by Type of Content {"url":"databases\/find-by-content"}
 ---View All Databases {"url":"databases\/view-all"}
-Books {"url":"books"}
--Column 1 {"url":"http:\/\/<menu-column>"}
+Books {"url":"books","options":{"attributes":{"title":"Books and E-books at Galvin Library","id":"galvinBooks"}}}
+-Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Books at IIT {"url":"http:\/\/<menu-category>"}
 ---Find Your Textbooks {"url":"books\/textbooks"}
 ---Search IIT Books {"url":"books\/iit"}
 ---E-Books {"url":"books\/ebooks"}
 ---Your Library Accounts {"url":"services\/library-accounts"}
--Column 2 {"url":"http:\/\/<menu-column>"}
+-Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --More Books {"url":"http:\/\/<menu-category>"}
 ---Search I-Share Books {"url":"books\/ishare"}
 ---Search WorldCat Books {"url":"books\/worldcat"}
-For Students {"url":"services\/students"}
--Column 1 {"url":"http:\/\/<menu-column>"}
+For Students {"url":"services\/students","options":{"attributes":{"title":"Resources for Students at Galvin Library","id":"galvinStudents"}}}
+-Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Study {"url":"http:\/\/<menu-category>"}
 ---Find Your Textbooks {"url":"books\/textbooks"}
 ---Reserve a Study Room {"url":"services\/reserve-a-room"}
 ---Tutorials and Research Guides {"url":"services\/tutorials"}
@@ -37,23 +38,26 @@ For Students {"url":"services\/students"}
 ---Distance Students {"url":"services\/students\/distance"}
 ---Work at the Library {"url":"services\/students\/jobs"}
 ---Fun at the Library {"url":"services\/students\/fun"}
-For Faculty {"url":"serices\/faculty"}
-About the Library {"url":"about"}
--Column 1 {"url":"http:\/\/<menu-column>"}
+For Faculty {"url":"services\/faculty","options":{"attributes":{"title":"Resources for faculty members at Galvin Library","id":"galvinFaculty"}}}
+-Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Instruction {"url":"http:\/\/<menu-category>"}
+---Schedule an INstruction Session {"url":"services\/faculty\/instruction"}
+About the Library {"url":"about","options":{"attributes":{"title":"About the Paul V. Galvin library","id":"galvinAbout"}}}
+-Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Administration {"url":"http:\/\/<menu-category>"}
 ---Quick Facts {"url":"about\/facts"}
 ---Dean's Page {"url":"about\/dean"}
 ---Mission Statement {"url":"about\/mission"}
 ---Library Staff {"url":"about\/staff"}
 ---Give to the Library {"url":"about\/give"}
--Column 2 {"url":"http:\/\/<menu-column>"}
+-Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Policies & Procedures {"url":"http:\/\/<menu-category>"}
 ---Access and Usage {"url":"about\/access"}
 ---24 hour access {"url":"about\/24-hour"}
 ---Collection Development {"url":"about\/collection-development"}
 ---Donating Books {"url":"about\/donating-books"}
 ---Fines {"url":"about\/fines"}
--Column 3 {"url":"http:\/\/<menu-column>"}
+-Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --About the Building {"url":"http:\/\/<menu-category>"}
 ---Computers {"url":"about\/computers"}
 ---Printing {"url":"about\/printers"}
@@ -62,7 +66,7 @@ About the Library {"url":"about"}
 ---Scanning {"url":"about\/scanning"}
 ---Maps and Directions {"url":"about\/maps"}
 ---Art in the Library {"url":"about\/art"}
--Column 4 {"url":"http:\/\/<menu-column>"}
+-Column 4 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Other Programs {"url":"http:\/\/<menu-category>"}
 ---Other IIT Libraries {"url":"about\/branches"}
 ---IIT Archives {"url":"about\/archives"}
@@ -71,4 +75,4 @@ About the Library {"url":"about"}
 ---Federal Depository Library Program {"url":"about\/fdlp"}
 ---Food & Agricultural Organization Depository {"url":"about\/faod"}
 ---IITRI {"url":"about\/iitri"}
-IIT Home {"url":"http:\/\/web.iit.edu\/"}
+IIT Home {"url":"http:\/\/web.iit.edu\/","options":{"attributes":{"title":"IIT Home page","id":"iitHome"}}}

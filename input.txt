@@ -1,5 +1,6 @@
 #Heading,URL,Title,ID,Class
-Home,<front>,The Paul V. Galvin Library home page,galvinHome,
+#Do not sort. Menu items are imported in this order. ,Dashes indicate hierarchy. Do not skip from 1 (-) to 3 (---),Download as CSV and process using Python script,,
+Home,http://216.47.136.102,The Paul V. Galvin Library home page,galvinHome,
 Articles & More,articles,Articles and e-resources at Galvin Library,galvinArticles,
 -Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
 --Articles,http://<menu-category>,,,
@@ -31,6 +32,7 @@ Books,books,Books and E-books at Galvin Library,galvinBooks,
 ---Search WorldCat Books,books/worldcat,,,
 For Students,services/students,Resources for Students at Galvin Library,galvinStudents,
 -Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
+--Study,http://<menu-category>,,,
 ---Find Your Textbooks,books/textbooks,,,
 ---Reserve a Study Room,services/reserve-a-room,,,
 ---Tutorials and Research Guides,services/tutorials,,,
@@ -38,7 +40,10 @@ For Students,services/students,Resources for Students at Galvin Library,galvinSt
 ---Distance Students,services/students/distance,,,
 ---Work at the Library,services/students/jobs,,,
 ---Fun at the Library,services/students/fun,,,
-For Faculty,serices/faculty,Resources for faculty members at Galvin Library,galvinFaculty,
+For Faculty,services/faculty,Resources for faculty members at Galvin Library,galvinFaculty,
+-Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
+--Instruction,http://<menu-category>,,,
+---Schedule an INstruction Session,services/faculty/instruction,,,
 About the Library,about,About the Paul V. Galvin library,galvinAbout,
 -Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
 --Administration,http://<menu-category>,,,
