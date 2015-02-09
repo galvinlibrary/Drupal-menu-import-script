@@ -1,15 +1,15 @@
 #Heading,URL,Title,ID,Class
 Home,<front>,The Paul V. Galvin Library home page,galvinHome,
 Articles & More,articles,Articles and e-resources at Galvin Library,galvinArticles,
--Column 1,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Articles,http://<menu-category>,Not a link,,
+-Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
+--Articles,http://<menu-category>,,,
 ---Quick Search (3 databases),articles/quick-search,Quick search box to 3 databases,,
 ---Find Articles by Subject,databases/find-by-subject,,,
 ---Find Items by Type of Content,articles/find-by-content,,,
 ---Find a Specific Article,articles/find-an-article,,,
 ---Request an Article,articles/request-an-article,,,
--Column 2,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Journals,http://<menu-category>,Not a link,,
+-Column 2,http://<menu-column>,,,iit-gh-menu-grid-4
+--Journals,http://<menu-category>,,,
 ---Find a Journal by Name,journals/find-by-name,,,
 ---Find a Journal by ISSN,journals/find-by-issn,,,
 ---Find Journals by Subject,journals/find-by-subject,,,
@@ -19,18 +19,18 @@ Articles & More,articles,Articles and e-resources at Galvin Library,galvinArticl
 ---Find Databases by Type of Content,databases/find-by-content,,,
 ---View All Databases,databases/view-all,,,
 Books,books,Books and E-books at Galvin Library,galvinBooks,
--Column 1,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Books at IIT,http://<menu-category>,Not a link,,
+-Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
+--Books at IIT,http://<menu-category>,,,
 ---Find Your Textbooks,books/textbooks,,,
 ---Search IIT Books,books/iit,,,
 ---E-Books,books/ebooks,,,
 ---Your Library Accounts,services/library-accounts,,,
--Column 2,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---More Books,http://<menu-category>,Not a link,,
+-Column 2,http://<menu-column>,,,iit-gh-menu-grid-4
+--More Books,http://<menu-category>,,,
 ---Search I-Share Books,books/ishare,,,
 ---Search WorldCat Books,books/worldcat,,,
 For Students,services/students,Resources for Students at Galvin Library,galvinStudents,
--Column 1,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
+-Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
 ---Find Your Textbooks,books/textbooks,,,
 ---Reserve a Study Room,services/reserve-a-room,,,
 ---Tutorials and Research Guides,services/tutorials,,,
@@ -40,22 +40,22 @@ For Students,services/students,Resources for Students at Galvin Library,galvinSt
 ---Fun at the Library,services/students/fun,,,
 For Faculty,serices/faculty,Resources for faculty members at Galvin Library,galvinFaculty,
 About the Library,about,About the Paul V. Galvin library,galvinAbout,
--Column 1,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Administration,http://<menu-category>,Not a link,,
+-Column 1,http://<menu-column>,,,iit-gh-menu-grid-4
+--Administration,http://<menu-category>,,,
 ---Quick Facts,about/facts,,,
 ---Dean's Page,about/dean,,,
 ---Mission Statement,about/mission,,,
 ---Library Staff,about/staff,,,
 ---Give to the Library,about/give,,,
--Column 2,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Policies & Procedures,http://<menu-category>,Not a link,,
+-Column 2,http://<menu-column>,,,iit-gh-menu-grid-4
+--Policies & Procedures,http://<menu-category>,,,
 ---Access and Usage,about/access,,,
 ---24 hour access,about/24-hour,,,
 ---Collection Development,about/collection-development,,,
 ---Donating Books,about/donating-books,,,
 ---Fines,about/fines,,,
--Column 3,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---About the Building,http://<menu-category>,Not a link,,
+-Column 3,http://<menu-column>,,,iit-gh-menu-grid-4
+--About the Building,http://<menu-category>,,,
 ---Computers,about/computers,,,
 ---Printing,about/printers,,,
 ---Borrowing a Laptop or iPad,about/laptops-and-ipads,,,
@@ -63,8 +63,8 @@ About the Library,about,About the Paul V. Galvin library,galvinAbout,
 ---Scanning,about/scanning,,,
 ---Maps and Directions,about/maps,,,
 ---Art in the Library,about/art,,,
--Column 4,http://<menu-column>,Not a link,,iit-gh-menu-grid-4
---Other Programs,http://<menu-category>,Not a link,,
+-Column 4,http://<menu-column>,,,iit-gh-menu-grid-4
+--Other Programs,http://<menu-category>,,,
 ---Other IIT Libraries,about/branches,,,
 ---IIT Archives,about/archives,,,
 ---Digital Collections,about/digital-collections,,,
