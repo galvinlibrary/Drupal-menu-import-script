@@ -1,78 +1,117 @@
-Home {"url":"http:\/\/216.47.136.102","options":{"attributes":{"title":"The Paul V. Galvin Library home page","id":"galvinHome"}}}
-Articles & More {"url":"articles","options":{"attributes":{"title":"Articles and e-resources at Galvin Library","id":"galvinArticles"}}}
+Home {"url":"http:\/\/216.47.136.104","options":{"attributes":{"title":"The Paul V. Galvin Library home page","id":"iit-gh-menu-home"}}}
+Find Articles & More {"url":"node\/845","options":{"attributes":{"id":"iit-gh-menu-articles"}}}
 -Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Articles {"url":"http:\/\/<menu-category>"}
----Quick Search (3 databases) {"url":"articles\/quick-search","options":{"attributes":{"title":"Quick search box to 3 databases"}}}
----Find Articles by Subject {"url":"databases\/find-by-subject"}
----Find Items by Type of Content {"url":"articles\/find-by-content"}
----Find a Specific Article {"url":"articles\/find-an-article"}
----Request an Article {"url":"articles\/request-an-article"}
+---Quick Search (3 databases) {"url":"node\/2523"}
+---View by Subject (COM, MMAE, etc) {"url":"node\/845"}
+---View by Type of Content (Standards, Theses, etc.) {"url":"node\/845"}
+---Find an Article by Citation {"url":"node\/845"}
+---Request an Article via MyILL {"url":"node\/845"}
 -Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Journals {"url":"http:\/\/<menu-category>"}
----Find a Journal by Name {"url":"journals\/find-by-name"}
----Find a Journal by ISSN {"url":"journals\/find-by-issn"}
----Find Journals by Subject {"url":"journals\/find-by-subject"}
+---Find a Journal by Title {"url":"node\/845"}
+---Find a Journal by ISSN {"url":"node\/845"}
+---Find Journals by Subject {"url":"node\/845"}
 -Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Databases {"url":"http:\/\/<menu-category>"}
----Find Databases by Subject {"url":"databases\/find-by-subject"}
----Find Databases by Type of Content {"url":"databases\/find-by-content"}
----View All Databases {"url":"databases\/view-all"}
-Books {"url":"books","options":{"attributes":{"title":"Books and E-books at Galvin Library","id":"galvinBooks"}}}
+---View All Databases {"url":"node\/845"}
+---View Databases by Subject {"url":"node\/845"}
+---View Databases by Type of Content {"url":"node\/845"}
+Find Books {"url":"node\/845","options":{"attributes":{"id":"iit-gh-menu-books"}}}
 -Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Books at IIT {"url":"http:\/\/<menu-category>"}
----Find Your Textbooks {"url":"books\/textbooks"}
----Search IIT Books {"url":"books\/iit"}
----E-Books {"url":"books\/ebooks"}
----Your Library Accounts {"url":"services\/library-accounts"}
+---Find Your Textbooks {"url":"node\/845"}
+---Search IIT Books {"url":"node\/2518"}
+---How to Find a Book on the Shelf {"url":"node\/845"}
+---Find and Use E-Books {"url":"node\/845"}
 -Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --More Books {"url":"http:\/\/<menu-category>"}
----Search I-Share Books {"url":"books\/ishare"}
----Search WorldCat Books {"url":"books\/worldcat"}
-For Students {"url":"services\/students","options":{"attributes":{"title":"Resources for Students at Galvin Library","id":"galvinStudents"}}}
+---Search I-Share Books {"url":"node\/2524"}
+---Search WorldCat Books {"url":"node\/2525"}
+---Chicago Public Library {"url":"node\/845"}
+-Column 3 {"url":""}
+--Frequently Asked Questions {"url":"http:\/\/<menu-category>"}
+---How Do I Create a Library Account? {"url":"node\/845"}
+---How Many Books Can I Check Out? {"url":"node\/845"}
+---How Do I Renew a Book? {"url":"node\/845"}
+For Students {"url":"node\/845","options":{"attributes":{"id":"iit-gh-menu-students"}}}
 -Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
---Study {"url":"http:\/\/<menu-category>"}
----Find Your Textbooks {"url":"books\/textbooks"}
----Reserve a Study Room {"url":"services\/reserve-a-room"}
----Tutorials and Research Guides {"url":"services\/tutorials"}
----International Students {"url":"services\/students\/international"}
----Distance Students {"url":"services\/students\/distance"}
----Work at the Library {"url":"services\/students\/jobs"}
----Fun at the Library {"url":"services\/students\/fun"}
-For Faculty {"url":"services\/faculty","options":{"attributes":{"title":"Resources for faculty members at Galvin Library","id":"galvinFaculty"}}}
+--Library Services {"url":"http:\/\/<menu-category>"}
+---Find Your Textbooks {"url":"node\/845"}
+---Create Your Library Accounts {"url":"node\/845"}
+---Make a Research Appointment {"url":"node\/845"}
+---International Student Resources {"url":"node\/845"}
+---Distance Learning Resources {"url":"node\/845"}
+---Work at the Library {"url":"node\/845"}
+-Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Use the Library {"url":"http:\/\/<menu-category>"}
+---Library Hours {"url":"node\/845"}
+---Reserve a Study Room {"url":"node\/845"}
+---Computers, Printers, Scanners {"url":"node\/845"}
+---Borrow a Laptop or iPad {"url":"node\/845"}
+-Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Fun Stuff {"url":"http:\/\/<menu-category>"}
+---Anime {"url":"node\/845"}
+---Film {"url":"node\/845"}
+---Novels {"url":"node\/845"}
+---Games {"url":"node\/845"}
+---3-D Printers {"url":"node\/845"}
+-Column 4 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Other Services {"url":"http:\/\/<menu-category>"}
+---Keep Your Library Account Active {"url":"node\/845"}
+---Pay Your Library Fine {"url":"node\/845"}
+---Users with Disabilities {"url":"node\/845"}
+---IIT Alumni {"url":"node\/845"}
+---Shimer and Vandercook Students {"url":"node\/845"}
+For Faculty {"url":"node\/845","options":{"attributes":{"id":"iit-gh-menu-faculty"}}}
 -Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Instruction {"url":"http:\/\/<menu-category>"}
----Schedule an INstruction Session {"url":"services\/faculty\/instruction"}
-About the Library {"url":"about","options":{"attributes":{"title":"About the Paul V. Galvin library","id":"galvinAbout"}}}
+---Schedule an Instruction Session {"url":"node\/845"}
+---Alert Us of Upcoming Library Assignments {"url":"node\/845"}
+---Research Appointments for Your Students {"url":"node\/845"}
+-Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Collection {"url":"http:\/\/<menu-category>"}
+---Place Items on Reserve {"url":"node\/845"}
+---Recommend a Resource {"url":"node\/845"}
+---Student Textbook Lookup {"url":"node\/845"}
+-Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
+--Services {"url":"http:\/\/<menu-category>"}
+---New Faculty Guide {"url":"node\/845"}
+---Document Delivery {"url":"node\/845"}
+---Interlibrary Loan {"url":"node\/845"}
+---I-Share Libraries {"url":"node\/845"}
+---Visiting Scholar Permissions {"url":"node\/845"}
+---Teaching Assistants' Guide {"url":"node\/845"}
+About the Library {"url":"node\/845","options":{"attributes":{"id":"iit-gh-menu-about"}}}
 -Column 1 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Administration {"url":"http:\/\/<menu-category>"}
----Quick Facts {"url":"about\/facts"}
----Dean's Page {"url":"about\/dean"}
----Mission Statement {"url":"about\/mission"}
----Library Staff {"url":"about\/staff"}
----Give to the Library {"url":"about\/give"}
+---Maps and Directions {"url":"node\/845"}
+---Quick Facts {"url":"node\/845"}
+---Dean's Page {"url":"node\/845"}
+---Mission Statement {"url":"node\/845"}
+---Library Staff {"url":"node\/845"}
+---Give to the Library {"url":"node\/845"}
+---Art in the Library {"url":"node\/845"}
 -Column 2 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
 --Policies & Procedures {"url":"http:\/\/<menu-category>"}
----Access and Usage {"url":"about\/access"}
----24 hour access {"url":"about\/24-hour"}
----Collection Development {"url":"about\/collection-development"}
----Donating Books {"url":"about\/donating-books"}
----Fines {"url":"about\/fines"}
+---Borrowing and Circulation of Items {"url":"node\/845"}
+---Building Access and Usage {"url":"node\/845"}
+---24 hour access {"url":"node\/845"}
+---Computer and Database Access {"url":"node\/845"}
+---Collection Development {"url":"node\/845"}
+---Donating Books {"url":"node\/845"}
+---Fines {"url":"node\/845"}
 -Column 3 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
---About the Building {"url":"http:\/\/<menu-category>"}
----Computers {"url":"about\/computers"}
----Printing {"url":"about\/printers"}
----Borrowing a Laptop or iPad {"url":"about\/laptops-and-ipads"}
----Wireless Access {"url":"about\/wireless"}
----Scanning {"url":"about\/scanning"}
----Maps and Directions {"url":"about\/maps"}
----Art in the Library {"url":"about\/art"}
+--IIT Archives & Special Collections {"url":"http:\/\/<menu-category>"}
+---IIT Archives {"url":"node\/845"}
+---Digital Collections {"url":"node\/845"}
 -Column 4 {"url":"http:\/\/<menu-column>","options":{"attributes":{"class":["iit-gh-menu-grid-4"]}}}
---Other Programs {"url":"http:\/\/<menu-category>"}
----Other IIT Libraries {"url":"about\/branches"}
----IIT Archives {"url":"about\/archives"}
----Digital Collections {"url":"about\/digital-collections"}
----University Technology Park {"url":"about\/utp"}
----Federal Depository Library Program {"url":"about\/fdlp"}
----Food & Agricultural Organization Depository {"url":"about\/faod"}
----IITRI {"url":"about\/iitri"}
-IIT Home {"url":"http:\/\/web.iit.edu\/","options":{"attributes":{"title":"IIT Home page","id":"iitHome"}}}
+--Other Locations {"url":"http:\/\/<menu-category>"}
+---Other IIT Libraries {"url":"node\/845"}
+---University Technology Park {"url":"node\/845"}
+---Federal Depository Library Program {"url":"node\/845"}
+---Food & Agricultural Organization Depository {"url":"node\/845"}
+---IITRI {"url":"node\/845"}
+---Chicago Collections Consortium {"url":"node\/845"}
+---Black Metropolis Research Consortium {"url":"node\/845"}
+IIT Home {"url":"http:\/\/web.iit.edu\/","options":{"attributes":{"title":"IIT Home page","id":"iit-gh-menu-iit-home"}}}

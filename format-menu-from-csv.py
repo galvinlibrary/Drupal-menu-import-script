@@ -23,11 +23,11 @@ else:
             if cols[0][:1]=='#':
                 print "\nHeader line found. Skipping this line: \n", cols
                 continue
- 
-#            if 'column' in cols[0]:  
-#              print "Adding class for row ", val0
-#              row = cols[0] + " " + "{\"url\":\"" + cols[1] + "\", \"options\":{\"attributes\":{\"class\":[\"" + 'iit-gh-menu-grid-4' + "\"]}}}\n"
-#            else:
+            if cols[0][:1]=='':
+                print "\nSkipping blank line: \n"
+                continue
+                
+            # add options only if one or more property flags are found
             propFlag=0
             
             if cols[2]!="":
